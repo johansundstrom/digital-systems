@@ -20,7 +20,7 @@
 ### Lectures
 
 1. Lecture 1 - Intro to Digital Systems
-   * Focus - Digital Systems where human to machines interfaces can be found
+   * Focus - Digital Systems where human-machines interfaces can be found
    * Mainly on Industry 4.0 and Health and Welfare areas
    * ESD
    * Study material, software and litterature used
