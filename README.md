@@ -9,7 +9,7 @@
 ### Study Materials
 
 * Electronic kit - m.nu
-* Litterature - ?
+* Litterature - Interaction Design: Beyond Human-Computer Interaction, Fifth Edition
 
 ### Exams
 
