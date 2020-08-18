@@ -26,30 +26,48 @@
    * Study material, software and litterature used
    * Course Meta Data
 
-2. Lab 1 - ESP8266/ESP32 Microcontroller
+2. Lecture 2 - Introduction to Arduino micro controllers
+   * Arduino community
+   * Arduino IDE
+   * Programming, compiling and uploading software
+
+3. Lab 1 - ESP8266/ESP32 Microcontroller
    * Setup IDE
    * Study 8266
    * Data acqusition with sensor
    * Polish data/JSON
    * Add time stamp
 
-3. Lab 2 - Cloud Based DB
+4. Lecture 3 - Introduction to NOSQL Databases
+   * Introduction on storing data
    * Terminology
+   * Minimalise data transmission
+   * Cloud based databases
+   * JSON data interchange format
+
+5. Lab 2 - Cloud Based DB
    * Setup/Test/Verify
    * Send Data to cloud
 
-4. Lab 3 - Interface with JS-enabled browser
+5. Lecture 4 - Interfacing in browsers
+   * HTML/CSS
+   * Analyze context and target audience
+   * HTML as a protocol - head container
+   * Receive, manipulate and render data
+   * Adopt to context and target audience 
+
+6. Lab 3 - Interface with JS-enabled browser
    * HTML/CSS
    * Manipulate DOM with JS
    * Asynchronous charts
 
-5. Lecture 2 - Studies on Interfaces
+7. Lecture 2 - Studies on Interfaces
    * Buttons and actuators
    * Indicators and values
    * Cognitive theory
    * Interface for decisions
    * Cookpit case
 
-6. Lecture 3 - Project
+8. Lecture 3 - Project
 
 
