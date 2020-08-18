@@ -49,25 +49,25 @@
    * Setup/Test/Verify
    * Send Data to cloud
 
-5. Lecture 4 - Interfacing in browsers
+6. Lecture 4 - Interfacing in browsers
    * HTML/CSS
    * Analyze context and target audience
    * HTML as a protocol - head container
    * Receive, manipulate and render data
    * Adopt to context and target audience 
 
-6. Lab 3 - Interface with JS-enabled browser
+7. Lab 3 - Interface with JS-enabled browser
    * HTML/CSS
    * Manipulate DOM with JS
    * Asynchronous charts
 
-7. Lecture 2 - Studies on Interfaces
+8. Lecture 5 - Studies on Interfaces
    * Buttons and actuators
    * Indicators and values
    * Cognitive theory
    * Interface for decisions
    * Cookpit case
 
-8. Lecture 3 - Project
+9. Lecture 6 - Project
 
 
