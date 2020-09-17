@@ -17,17 +17,17 @@
 
 
  
-| Vecka 47, 2020 |
+| Vecka 47, 2020 | | | | | |
 |---|---|---|---|---|---|
- 	Ons	18 Nov	08:00-17:00 	 	 	 	Campus	 	Hållbarhetsdag i Eskilstuna	2020-06-22
- 	Fre	20 Nov	13:15-17:00 	 	 	jsm01	C1-011, Campus	 	Lab 1	2020-09-07
+|	Ons	18 Nov	| 08:00-17:00 |	Campus	|	Hållbarhetsdag i Eskilstuna	| |
+| Fre	20 Nov	| 13:15-17:00 |	jsm01	| C1-011 | Campus	| Lab 1 |
  
-Vecka 48, 2020
- 	Ons	25 Nov	13:15-17:00 	 	 	jsm01	A2-002, Campus	 	Föreläsning 2	2020-06-22
- 	Fre	27 Nov	13:15-17:00 	 	 	jsm01	Campus	 	Lab 2	2020-09-07
+| Vecka 48, 2020 | | | | | |
+|	Ons	25 Nov	| 13:15-17:00 |	jsm01	| A2-002 | Campus	|	Föreläsning 2 |
+| Fre	27 Nov	| 13:15-17:00 |	jsm01	| N/A | Campus	|	Lab 2	|
  
 Vecka 49, 2020
- 	Ons	2 Dec	13:15-17:00 	 	 	jsm01	C3-003, Campus	 	Föreläsning 3	2020-06-22
+| Ons	2 Dec	13:15-17:00 	 	 	jsm01	C3-003, Campus	 	Föreläsning 3	2020-06-22
  	Fre	4 Dec	13:15-17:00 	 	 	jsm01	C1-011, Campus	 	Lab 3	2020-09-07
  
 Vecka 50, 2020
