@@ -6,6 +6,45 @@
 
 * Nov 2nd - January 17th
 
+### Schedule
+
+| Vecka 46, 2020 |
+|---|---|---|---|---|---|
+| Ons	11 Nov | 13:15-17:00 | jsm01 | A2-002 | Campus | Upprop introduktion |
+|	Fre	13 Nov | 13:15-17:00 | jsm01 | C3-003 | Campus | Föreläsning 1 |
+|---|---|---|---|---|---|
+
+
+ 
+| Vecka 47, 2020 |
+|---|---|---|---|---|---|
+ 	Ons	18 Nov	08:00-17:00 	 	 	 	Campus	 	Hållbarhetsdag i Eskilstuna	2020-06-22
+ 	Fre	20 Nov	13:15-17:00 	 	 	jsm01	C1-011, Campus	 	Lab 1	2020-09-07
+ 
+Vecka 48, 2020
+ 	Ons	25 Nov	13:15-17:00 	 	 	jsm01	A2-002, Campus	 	Föreläsning 2	2020-06-22
+ 	Fre	27 Nov	13:15-17:00 	 	 	jsm01	Campus	 	Lab 2	2020-09-07
+ 
+Vecka 49, 2020
+ 	Ons	2 Dec	13:15-17:00 	 	 	jsm01	C3-003, Campus	 	Föreläsning 3	2020-06-22
+ 	Fre	4 Dec	13:15-17:00 	 	 	jsm01	C1-011, Campus	 	Lab 3	2020-09-07
+ 
+Vecka 50, 2020
+ 	Ons	9 Dec	13:15-17:00 	 	 	jsm01	A2-004, Campus	 	Föreläsning 4	2020-06-22
+ 	Fre	11 Dec	13:15-17:00 	 	 	jsm01	 	 	Field day	2020-06-22
+ 
+Vecka 51, 2020
+ 	Tis	15 Dec	13:15-17:00 	 	 	 	 	 	Handledning	2020-06-22
+ 	Ons	16 Dec	13:15-17:00 	 	 	jsm01	A2-004, Campus	 	Föreläsning 5	2020-06-22
+ 	Fre	18 Dec	13:15-17:00 	 	 	jsm01	A2-004, Campus	 	Föreläsning 6	2020-06-22
+ 
+Vecka 1, 2021
+ 	Fre	8 Jan	13:15-17:00 	 	 	jsm01	C3-003, Campus	 	Föreläsning 7	2020-06-22
+ 
+Vecka 2, 2021
+ 	Ons	13 Jan	13:15-17:00 	 	 	jsm01	C1-011, Campus	 	Föreläsning 8	2020-09-07
+ 	Fre	15 Jan	13:15-17:00 	 	 	jsm01	C3-003, Campus	 	Presentation	2020-06-22
+
 ### Study Materials
 
 * Electronic kit - m.nu
