@@ -14,9 +14,6 @@
 | Ons	11 Nov | 13:15-17:00 | jsm01 | A2-002 | Campus | Upprop introduktion |
 |	Fre	13 Nov | 13:15-17:00 | jsm01 | C3-003 | Campus | Föreläsning 1 |
 
-
-
- 
 | Vecka 47, 2020 | | | | | |
 |---|---|---|---|---|---|
 |	Ons	18 Nov	| 08:00-17:00 |	Campus	|	Hållbarhetsdag i Eskilstuna	| |
