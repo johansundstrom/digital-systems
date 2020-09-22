@@ -4,7 +4,7 @@
 
 ### Date
 
-* Nov 2nd - January 17th
+* Nov 11th - January 17th
 
 ### Schedule
 
