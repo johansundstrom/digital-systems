@@ -9,7 +9,7 @@
 ## Interaction is everywhere
 
 Two main areas here
-* Industry 4.0 - Industry 4.0 refers to a new phase in the Industrial Revolution that focuses heavily on interconnectivity, automation, machine learning, and real-time data
+* Industry 4.0 - refers to a new phase in the Industrial Revolution that focuses heavily on interconnectivity, automation, machine learning, and real-time data
 * Health and Welfare areas - Health and Welfare Technology from a User Perspective
 
 
