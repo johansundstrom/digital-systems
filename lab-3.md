@@ -25,7 +25,7 @@
 * Send ```sudo apt-get upgrade```to download new updates
 * Send ```sudo reboot```
 
-### Install Utilities
+### Install Utilities (https://tech.scargill.net/the-script/)
 
 * In terminal send ```wget https://bitbucket.org/api/2.0/snippets/scargill/kAR5qG/master/files/script.sh```
 * Send ```bash script.sh```
