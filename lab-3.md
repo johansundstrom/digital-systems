@@ -25,6 +25,16 @@
 * Send ```sudo apt-get upgrade```to download new updates
 * Send ```sudo reboot```
 
+### Install keyboard on screen
+
+* Send ```sudo apt-get install matchbox-keyboard```
+
+### Rotate screen
+
+* In terminal send ```sudo nano /boot/config.txt```
+* Add line ```lcd_rotate=2```
+* Save and exit
+
 ### Install Utilities (https://tech.scargill.net/the-script/)
 
 * In terminal send ```wget https://bitbucket.org/api/2.0/snippets/scargill/kAR5qG/master/files/script.sh```
