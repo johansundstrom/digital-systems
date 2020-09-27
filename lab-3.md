@@ -42,3 +42,12 @@
 * Choose Utility to install
 * Send ```sudo reboot```
 
+### Start Chromium in kiosk mode
+
+* In terminal send ```chromium-browser --kiosk http://www.anyurl.com```
+
+### Autostart in kiosk mode
+
+* ```https://wolfgang-ziegler.com/blog/setting-up-a-raspberrypi-in-kiosk-mode-2020```
+
+
