@@ -69,3 +69,17 @@ password_file /etc/mosquitto/mypasswords
 * Enter ```sudo reboot```
 
 ### Test Broker
+
+* Open terminal 1 and connect to RPi
+* Enter ```mosquitto```
+* Enter ```ps -a``` to show process list
+
+### Start Subscriber
+
+* Open terminal 2 and connect to RPi
+* Enter ```mosquitto_sub -t topic/demo -h [dns/ip to RPi] -p 1883 -u [username] -P [password]```
+
+### Start Publisher
+
+* Open terminal 3 and connect to RPi
+* Enter ``` mosquitto_pub -t topic/demo -h [dns/ip to RPi] -p 1883 -u [username] -P [password] -m 'Johan äger'```
