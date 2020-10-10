@@ -50,4 +50,22 @@
 
 * ```https://wolfgang-ziegler.com/blog/setting-up-a-raspberrypi-in-kiosk-mode-2020```
 
+## Setup MQTT
 
+### Create username and pw to MQTT
+
+* Open terminal and connect to RPi
+* Enter ```sudo mosquitto_passwd -c /etc/mosquitto/mypasswords [new-username]``` (-c is create)
+* Enter password and reenter
+
+### Use the new file mypasswords
+
+* Edit configuration ```sudo nano /etc/mosquitto/mosquitto.conf```
+* Add the following at the end...
+```bash
+allow_anonymous false
+password_file /etc/mosquitto/mypasswords
+```
+* Enter ```sudo reboot```
+
+### Test Broker
