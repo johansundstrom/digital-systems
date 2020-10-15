@@ -1,4 +1,4 @@
-# Lecture 2 - Introduction to Microcontrollers
+# Lecture 1 - Introduction to Microcontrollers
 
 ## Microcontroller
 
