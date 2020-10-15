@@ -4,6 +4,7 @@
 
 Definitions
 * Mikro Controller (µC) - Small computer consisting of CPU, memory and IO designed for embedded systems
+* IO - Input and output from a Micrto Controller
 * Embedded Systems - Dedicated function within a larger mechanical or electrical system
 
 1. Q: What is key advantages of a Micro Controller?
@@ -63,3 +64,5 @@ Provides
 * Arduino community
 
 ## 
+
+[Arduino Demo]
