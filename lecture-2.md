@@ -1,11 +1,15 @@
-# Lecture 2 - Introduction to Micro Controllers
+# Lecture 2 - Introduction to Microcontrollers
 
-## Micro Controller
+## Microcontroller
 
 Definitions
-* Mikro Controller (µC) - Small computer consisting of CPU, memory and IO designed for embedded systems
-* IO - Input and output from a Micrto Controller
+* Mikrocontroller (µC) - Small computer consisting of CPU, memory and IO designed for embedded systems
+* IO - Input and output from a Microcontroller
 * Embedded Systems - Dedicated function within a larger mechanical or electrical system
+
+* Examples of Microcontrollers - ATmega328P, NodeMCU (ESP8266), ESP32 (NodeMCU was predecessor of ESP32)
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microchip.com%2Fwwwproducts%2FATmega328p&psig=AOvVaw22cP1wYqH4nnlvpFpEikpM&ust=1602854496964000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj3n7vYtuwCFQAAAAAdAAAAABAD">
 
 1. Q: What is key advantages of a Micro Controller?
 1. Q: What is basic needs from a µC from consumers perspective?
