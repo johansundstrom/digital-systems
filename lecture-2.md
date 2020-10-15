@@ -7,10 +7,14 @@ Definitions
 * IO - Input and output from a Microcontroller
 * Embedded Systems - Dedicated function within a larger mechanical or electrical system
 
-* Examples of Microcontrollers - ATmega328P, NodeMCU (ESP8266), ESP32 (NodeMCU was predecessor of ESP32)
+* Examples of Microcontrollers
 
 <img width="500" src="https://www.microchip.com/_images/ics/medium-ATmega328P-SPDIP-28.png">
+Fig.1 ATmega328P
 <img width="500" src="https://opencircuit.shop/resources/content/14f8b53fd291a/crop/400-300/NodeMcu-v3-ESP-12E-WIFI-Development-Board.webp">
+Fig.2 NodeMCU (ESP8266)
+<img width="500" src="https://www.mouser.se/images/marketingid/2018/img/128462768_Adafruit_HUZZAH32%20ESP32%20WiFi%20Development%20Feather%20Boards.png?v=052120.1031">
+Fig.3 ESP32 (NodeMCU was predecessor of ESP32)
 
 1. Q: What is key advantages of a Micro Controller?
 1. Q: What is basic needs from a µC from consumers perspective?
