@@ -28,7 +28,7 @@ Two main areas here
 
 Adds up to data from sensors being visualised and actuated
 
-## About the course
+## Course Meta data
 
 * Presence and/or off campus
 * Exams
@@ -41,3 +41,7 @@ Adds up to data from sensors being visualised and actuated
   3. Understand how different sensor types can be used in the manufacturing industry and know the characteristics of each type
   4. Describe the advantages and disadvantages of the use of cloud services and explain the main driving forces and obstacles to the use of cloud services in the manufacturing industry
   5. Demonstrate the ability to practically and theoretically apply their knowledge in IIoT for applications in production, logistics and product development
+
+## In this course
+
+* 
