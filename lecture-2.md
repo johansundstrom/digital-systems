@@ -18,6 +18,7 @@ Fig.2 NodeMCU (ESP8266)
 <img width="300" src="https://media.ncd.io/sites/2/20180327145257/ESP32_2.png">
 Fig. 3 ESP32 (NodeMCU was predecessor of ESP32)
 
+
 1. Q: What is key advantages of a Micro Controller?
 1. Q: What is basic needs from a µC from consumers perspective?
 
