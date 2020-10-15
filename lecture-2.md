@@ -48,7 +48,7 @@ Definitions
 1. Q: Why do Librarys exists?
 1. Q: Who writes Librarys?
 
-## Anathomy of a Micro Controller
+## Anatomy of a Micro Controller
 
 * Serial port for communication and programming of memory (often found)
 * Firmware for programming the serial port
