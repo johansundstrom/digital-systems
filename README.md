@@ -12,7 +12,7 @@
 | Vecka 46, 2020 | | | | | |
 |---|---|---|---|---|---|
 | Ons	11 Nov | 13:15-17:00 | jsm01 | A2-002 | Campus | <a href="intro.md">Upprop introduktion</a> |
-|	Fre	13 Nov | 13:15-17:00 | jsm01 | C3-003 | Campus | Föreläsning 1 |
+|	Fre	13 Nov | 13:15-17:00 | jsm01 | C3-003 | Campus | <a href="lecture1.md">Föreläsning 1</a> |
 
 | Vecka 47, 2020 | | | | | |
 |---|---|---|---|---|---|
