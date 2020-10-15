@@ -13,7 +13,7 @@ Definitions
 Fig.1 ATmega328P
 <img width="500" src="https://opencircuit.shop/resources/content/14f8b53fd291a/crop/400-300/NodeMcu-v3-ESP-12E-WIFI-Development-Board.webp">
 Fig.2 NodeMCU (ESP8266)
-<img width="500" src="https://www.mouser.se/images/marketingid/2018/img/128462768_Adafruit_HUZZAH32%20ESP32%20WiFi%20Development%20Feather%20Boards.png?v=052120.1031">
+<img width="500" src="https://media.ncd.io/sites/2/20180327145257/ESP32_2.png">
 Fig.3 ESP32 (NodeMCU was predecessor of ESP32)
 
 1. Q: What is key advantages of a Micro Controller?
