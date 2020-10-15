@@ -9,8 +9,8 @@ Definitions
 
 * Examples of Microcontrollers - ATmega328P, NodeMCU (ESP8266), ESP32 (NodeMCU was predecessor of ESP32)
 
-<img src="https://www.microchip.com/_images/ics/medium-ATmega328P-SPDIP-28.png">
-<img src="https://opencircuit.shop/resources/content/14f8b53fd291a/crop/400-300/NodeMcu-v3-ESP-12E-WIFI-Development-Board.webp">
+<img width="500" src="https://www.microchip.com/_images/ics/medium-ATmega328P-SPDIP-28.png">
+<img width="500" src="https://opencircuit.shop/resources/content/14f8b53fd291a/crop/400-300/NodeMcu-v3-ESP-12E-WIFI-Development-Board.webp">
 
 1. Q: What is key advantages of a Micro Controller?
 1. Q: What is basic needs from a µC from consumers perspective?
