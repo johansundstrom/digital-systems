@@ -9,6 +9,7 @@ Definitions
 
 * Examples of Microcontrollers
 
+![Fig.1 ATmega328P](https://www.microchip.com/_images/ics/medium-ATmega328P-SPDIP-28.png)
 <img width="500" src="https://www.microchip.com/_images/ics/medium-ATmega328P-SPDIP-28.png">
 Fig.1 ATmega328P
 <img width="500" src="https://opencircuit.shop/resources/content/14f8b53fd291a/crop/400-300/NodeMcu-v3-ESP-12E-WIFI-Development-Board.webp">
