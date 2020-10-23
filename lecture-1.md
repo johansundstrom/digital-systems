@@ -3,7 +3,9 @@
 ## Why Web?
 
 Q: Why is web interface considered as surface for interaction?
+
 Q: Name top 3 advantages web interface and 3 disadvantages
+
 Q: What can not be done Inteface-wise in a web ingterface?
 
 ## HTML
