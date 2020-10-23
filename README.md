@@ -6,6 +6,13 @@
 
 * Nov 11th - January 17th
 
+### Phases
+
+| Phases |
+|---|
+| Theory/Lab |
+| Project/tutoring |
+
 ### Schedule
 
 
