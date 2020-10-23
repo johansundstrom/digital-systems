@@ -20,6 +20,13 @@ Q: What can not be done Inteface-wise in a web ingterface?
 
 ## Stylesheet
 
+* Standard, W3C, CSS divided in *Modules*. Versions is replaced by *Levels* and published as *Snapshots*
+Syfte med CSS
+Browser default, browser reset
+inline, embed, linked
+Selector - property: value
+Div/span, ID/Class
+
 ## Stylesheet library
 
 ## Web UI kit
