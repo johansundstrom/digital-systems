@@ -20,12 +20,12 @@ Q: What can not be done Inteface-wise in a web ingterface?
 
 ## Stylesheet
 
-* Standard, W3C, CSS divided in *Modules*. Versions is replaced by *Levels* and published as *Snapshots*
-Syfte med CSS
-Browser default, browser reset
-inline, embed, linked
-Selector - property: value
-Div/span, ID/Class
+* Standard, W3C, CSS divided in **Modules**. When new features appear, **Levels** is used. All is published as **Snapshots**
+* Purpose
+* Browser default, browser reset
+* Inline, embed, linked
+* Selector - property: value
+* Div/span, ID/Class
 
 ## Stylesheet library
 
