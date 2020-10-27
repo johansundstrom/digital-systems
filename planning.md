@@ -4,13 +4,14 @@
 
 | Week | phase |  |
 |---|---|---|
-| W47 | Intro  |
-| W48 | Data acqusition |
-| W49 | Data transfer/storage |
-| W50 | Data visualisation |
+| W46 | Intro  |
+| W47 | Data acqusition |
+| W48 | Data transfer/storage |
+| W49 | Data visualisation |
+| W50 |
 | W51 | proj starts |
 | W52 | studies |
-| W53 | studies |
+| W53 |
 | W01 |
 | W02 | Presentations |
 
