@@ -16,9 +16,6 @@
 
 
 Antal träffar: 31
-«««1(current)2»»»
-
-25
 Kurstillfälle  - 24000
 
 | Personnr | Namn |
