@@ -48,3 +48,9 @@ Kurstillfälle  - 24000
 | 19800331-4740 | Rais, Sumbel |
 | 19951109-5409 | Reza, Sarina |
 | 20010910-0776 | Ricke, Tim |
+| 19940523-6390 | Rosshagen, Jonas |
+| 19970306-0278 | Singh, Jaswinder |
+| 19970617-3524 | Stanisic, Andrea |
+| 20010527-1142 | Söderquist, Tilde	|
+| 19840403-1646 | Thörn, Josefin |
+| 20011230-1924 | Toutoundji, Vanessa |
