@@ -8,13 +8,14 @@
 
 ## Interaction is everywhere
 
-Two main areas here
+Two main areas here - we have to choose
 * Industry 4.0 - refers to a new phase in the Industrial Revolution that focuses heavily on interconnectivity, automation, machine learning, and real-time data
 * Health and Welfare areas - Health and Welfare Technology from a User Perspective
 
 ## Intro
 
-* https://youtu.be/u5oTz1e5qqE
+* https://youtu.be/u5oTz1e5qqE Health and Welfare
+* https://youtu.be/O-ALemUcgsU Industry 4.0
 
 ## ESD
 
@@ -23,7 +24,7 @@ Two main areas here
 ## Study material, software and litterature
 
 * Course litearture - some interesting chapters used
-* Software - C++ and JS and DOM
+* Software - C++ and JS and DOM with VS Code
 * Hardware - ESP8266/RPi/Touchscreen
 
 Adds up to data from sensors being visualised and actuated
