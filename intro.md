@@ -1,7 +1,7 @@
 # Lecture 1 - Introduction to Digital Systems (ITE200)
 
 * Focus - Digital Systems where human-machines interfaces can be found
-* Mainly on Industry 4.0 and Health and Welfare areas
+* Mainly on Industry 4.0 and Health and Welfare areas (according to wishes from proffessor)
 * ESD
 * Study material, software and litterature used
 * Course Meta Data
