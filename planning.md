@@ -5,8 +5,8 @@
 | Week | phase |  |
 |---|---|---|
 | W46 | Intro  | Digital Systems |
-| W47 | Data acqusition | 
-| W48 | Data transfer/storage |
+| W47 | Data acqusition | µC |
+| W48 | Data transfer/storage | MQTT, Store |
 | W49 | Data visualisation |
 | W50 | UI |
 | W51 | proj starts |
