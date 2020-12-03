@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 03 - onclick</title>
+    <script>
+        function makeRed() {
+            document.body.style.backgroundColor = 'red';
+            return undefined; //this can be left out
+        }
+
+        function makeWhite() {
+            document.body.style.backgroundColor = 'white';
+            return undefined; //this can be left out
+        }
+    </script>
+</head>
+
+<body>
+    <a href="index.html">
+        <<< Back</a>
+            <hr>
+            <h1>Rubrik</h1>
+            <button onclick="makeRed()">Make Red</button>
+            <button onclick="makeWhite()">Make White</button>
+            <p id="p1"></p>
+</body>
+
+</html>

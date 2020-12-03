@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 09 - Option</title>
+
+    <script>
+        function jumpTo(url) {
+            if (url != "") {
+                window.location.href = url;
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <a href="index.html">
+        <<< Back</a>
+            <hr>
+            <select onchange="jumpTo(value)">
+        <option value="">>> Select </option>
+        <option value="https://www.mdh.se">MDH</option>
+        <option value="https://www.google.com">Google</option>
+        <option value="http://zoomin.idt.mdh.se">Zoomin</option>
+    </select>
+</body>
+
+</html>

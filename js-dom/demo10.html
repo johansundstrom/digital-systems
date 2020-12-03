@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 10 - AppenChild</title>
+
+    <script>
+        function writeH1(text) {
+            console.log(text);
+            var h1 = document.createElement('h1')
+            h1.innerText = text;
+            document.body.appendChild(h1);
+            console.log(h1);
+        }
+    </script>
+</head>
+
+<body>
+    <a href="index.html">
+        <<< Back</a>
+            <hr>
+            <a href="#" onclick="writeH1('New H1 appended inside BODY')">Click Me</a>
+</body>
+
+</html>

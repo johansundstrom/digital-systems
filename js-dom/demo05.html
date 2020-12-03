@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 05 - addToSelect</title>
+    <script>
+        let i = 0; // variabeln i har scope i functionerna
+
+        function addToSel() {
+            i++;
+            let sel = document.getElementById('mySel');
+            let opt = document.createElement('option');
+            console.log('Added option ' + i);
+            opt.text = 'Option nr ' + i;
+            sel.add(opt);
+        }
+
+        function delSel() {
+            console.log('Deleted option ' + i);
+            let sel = document.getElementById('mySel');
+            let opt = document.createElement('option');
+            opt.text = 'Option nr ' + i;
+            if (i > 0) {
+                sel.remove(opt.length);
+                i--
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <a href="index.html">
+        <<< Back</a>
+            <hr>
+            <button onclick="addToSel()">Add options</button>
+            <button onclick="delSel()">Remove options</button>
+            <select id="mySel"></select>
+</body>
+
+
+</html>

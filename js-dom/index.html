@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 09 - Option</title>
+
+    <script>
+        function jumpTo(url) {
+            if (url != "") {
+                window.location.href = url;
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <select onchange="jumpTo(value)">
+        <option value="">>> Select </option>
+        <option value="demo01.html">onload</option>
+        <option value="demo02.html">onclick 1</option>
+        <option value="demo03.html">onclick 2</option>
+        <option value="demo04.html">hover</option>
+        <option value="demo05.html">addToSelect</option>
+        <option value="demo06.html">Switch</option>
+        <option value="demo07.html">Radio</option>
+        <option value="demo08.html">Location</option>
+        <option value="demo09.html">Option</option>
+        <option value="demo10.html">AppendChild</option>
+    </select>
+</body>
+
+</html>

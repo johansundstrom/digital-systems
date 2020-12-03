@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 06 - Switch</title>
+    <style>
+        .red {
+            background-color: red;
+            color: black;
+        }
+        
+        .green {
+            background-color: green;
+            color: white;
+        }
+        #p { font-size: 30px;}
+    </style>
+
+    <script>
+        function mySwitch() {
+            let btn = document.getElementById('sw');
+            let para = document.getElementById('p');
+            if (btn.className == "red") {
+                btn.className = "green";
+                btn.innerText = 'On';
+                para.innerHTML = 'Tänt';
+            } else {
+                btn.className = "red";
+                btn.innerText = 'Off';
+                para.innerHTML = 'Släckt';
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <a href="index.html">
+        <<< Back</a>
+            <hr>
+            <button onclick="mySwitch()" id="sw" class="red">Off</button>
+            <span id="p">Släckt</span>
+</body>
+
+</html>
