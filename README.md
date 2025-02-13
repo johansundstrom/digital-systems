@@ -2,6 +2,15 @@
 
 ## Meta
 
+* intro
+* electrical sensors
+* microcontrollers
+* program
+* Visual Studio
+* 
+
+-- old
+
 ### Date
 
 * Nov 11th - January 17th
