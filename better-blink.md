@@ -1,4 +1,4 @@
-´´´javascript
+```javascript
 int LED = 2;
 
 
@@ -20,4 +20,4 @@ void loop()
   }
   delay(random(5) * 1000);
 }
-´´´
+```
