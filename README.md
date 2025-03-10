@@ -2,10 +2,10 @@
 
 ## Meta
 
-* practice [..*.......] theory
-* programming through github copilot
-* Generate, analyze and learn coding through AI Copilot code generator
-  
+- practice [..*.......] theory
+- programming through github copilot
+- Generate, analyze and learn coding through AI Copilot code generator
+
 ## methods
 
 * self studies
@@ -16,8 +16,13 @@
 
 ## progressions
 
-* intro and scope
-* demo of a complete system
+- Weekly iterations
+  - Area intro
+  - studying
+  - presenting
+
+- intro and scope
+- demo of a complete system
 
 
 ### stepping stones
