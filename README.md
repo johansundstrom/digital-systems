@@ -2,12 +2,35 @@
 
 ## Meta
 
-* intro
-* electrical sensors
-* microcontrollers
-* program
-* Visual Studio
-* 
+* practice [..*.......] theory
+* programming through github copilot
+* Generate, analyze and learn coding through AI Copilot code generator
+  
+## methods
+
+* self studies
+* work in groups
+* lectures
+* presentations
+* present in github
+
+## progressions
+
+* intro and scope
+* demo of a complete system
+
+
+### stepping stones
+  
+1 electrical sensors
+2 microcontrollers
+3 programming
+5 Visual Studio - walk through
+  - github
+  - extensions
+  - collaborating
+  - Copilot
+5  
 
 -- old
 
