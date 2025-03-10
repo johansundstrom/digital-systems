@@ -2,40 +2,76 @@
 
 ## Meta
 
-- practice [..*.......] theory
+- practice {--*-----} theory
 - programming through github copilot
 - Generate, analyze and learn coding through AI Copilot code generator
+- well defined least knowledge base
 
 ## methods
 
-* self studies
-* work in groups
-* lectures
-* presentations
-* present in github
+- self studies
+- work in groups
+- lectures
+- presentations
+- present in github
 
-## progressions
+## progression
 
-- Weekly iterations
-  - Area intro
+- weekly iterations
+  - area intro
   - studying
+  - formative feedback
   - presenting
+  - documentation
+
+## stepping stones
+
+## W1 - intro
 
 - intro and scope
 - demo of a complete system
+- electrical sensors
 
+## W2 - hardware/software
 
-### stepping stones
-  
-1 electrical sensors
-2 microcontrollers
-3 programming
-5 Visual Studio - walk through
+- microcontrollers
+- programming
+
+## W3 - programming
+
+- Visual Studio - walk through
   - github
   - extensions
   - collaborating
   - Copilot
-5  
+
+## W4 - web servers
+
+- html/css
+- manipulating DOM
+
+## w6 - communication protocol
+
+- MQTT
+- HTTP
+
+## w7 - visualise data
+
+- librarys
+- understand json
+
+## w8 - system
+
+- project
+
+## w9 - presentation
+
+- presentations
+- formative feedabck
+
+## w10 - reporting
+
+- presentations
 
 -- old
 
