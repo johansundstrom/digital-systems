@@ -50,21 +50,21 @@
 - html/css
 - manipulating DOM
 
-## w6 - communication protocol
+## w5 - communication protocol
 
 - MQTT
 - HTTP
 
-## w7 - visualise data
+## w6 - visualise data
 
 - librarys
 - understand json
 
-## w8 - system
+## w7 - system
 
 - project
 
-## w9 - presentation
+## w8 - presentation
 
 - presentations
 - formative feedabck
