@@ -31,6 +31,7 @@
 - intro and scope
 - demo of a complete system
 - electrical sensors
+- Project
 
 ## W2 - hardware/software
 
