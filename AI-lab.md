@@ -1,14 +1,16 @@
-# Introduction to ChatGPT
+# Introduction to Generative AI (such as ChatGPT, Copilot)
 
 ## Objective
-The purpose of this lab is to introduce students to ChatGPT and its capabilities. By the end of this lab, you will understand how to interact with ChatGPT, explore its features, and identify its practical applications.
+The purpose of this lab is to introduce students to generative AI and its capabilities. By the end of this lab, you will understand how to interact with an AI-tool, explore its features, and identify its practical applications.
 
 ## Prerequisites
 - Basic knowledge of text-based communication.
 - A device with internet access and a browser.
 
 ## Definitions used here 
-- **Prompt** -  AI prompt is a question, command, or statement used to interact with a large language model (LLM) to produce the intended output
+- **ChatGPT** - developed by OpenAI
+- **Copilot** - developed by Microsoft and highly integrated into different Microsoft products like Word or Excel
+- **Prompt** -  A prompt is a question, command, or statement used to interact with a large language model (LLM) to produce the intended output
 - **Large language model** - LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text
 - **Output** - The AI-generated response based on the input
 
@@ -19,31 +21,30 @@ https://www.siteground.com/academy/chatgpt-prompts/
 
 ---
 
-## Introduction to ChatGPT
+## Introduction to Generative AI
 
-- **ChatGPT** is an advanced language model developed by OpenAI.
-- It is designed to generate text, answer questions, and provide contextually relevant responses.
+- It is designed to generate text, answer questions, and provide contextually relevant responses amongst other.
 - The model is trained on extensive datasets to understand and produce natural language effectively.
-- ChatGPT is used across various domains like customer support, education, and programming.
+- Copilot is used across various domains like customer support, education, and programming.
 - It can be integrated into applications to enhance user interaction and experience.
 
 ---
 
+## 
+
 ## Lab Sections
 
-### 1. What is ChatGPT?
-- ChatGPT is an AI language model developed by OpenAI.
+### 1. What is Copilot?
 - It can generate text, answer questions, and assist with various tasks like coding, writing, and brainstorming.
 
 #### Example task:
-- Ask ChatGPT: *"What are you, and how can you help me?"*
+- Ask Copilot: *"What are you, and how can you help me?"*
 - Observe and note down the response.
 
 ---
 
-### 2. Getting Started with ChatGPT
-1. Open Copilot (free tool after MDU-login)
-1. Open ChatGPT in a browser or an integrated platform.
+### 2. Getting Started
+1. Open Microsoft 365 Copilot (free tool after MDU-login)
 2. Type a simple question or command like:
    - *"Explain Newton's laws of motion."*
    - *"Translate 'Hello' to Spanish."*
@@ -55,14 +56,14 @@ https://www.siteground.com/academy/chatgpt-prompts/
 ---
 
 ### 3. Exploring Capabilities
-ChatGPT is versatile and can:
+Copilot is versatile and can:
 - Generate creative content (e.g., stories, poems, or essays).
 - Assist with programming (e.g., code generation or debugging).
 - Answer factual questions based on its training data.
 
 #### Task:
 - Try the following:
-  - Ask ChatGPT to write a short poem about spring.
+  - Ask Copilot to write a short poem about spring.
   - Provide a simple coding problem (e.g., *"Write a Python function to add two numbers."*).
   - Ask a factual question (e.g., *"What is the capital of France?"*).
 - Document the results.
@@ -70,24 +71,24 @@ ChatGPT is versatile and can:
 ---
 
 ### 4. Limitations of ChatGPT
-- ChatGPT may not have up-to-date information (its knowledge cutoff is September 2021).
+- Copilot may not have up-to-date information.
 - It can generate incorrect or nonsensical answers.
 - It is not connected to the internet for real-time data.
 
 #### Task:
-- Ask ChatGPT a question about a recent event (e.g., *"What happened at the 2024 Olympics?"*).
+- Ask Copilot a question about a recent event (e.g., *"What happened at the 2024 Olympics?"*).
 - Note how it responds and identify any limitations.
 
 ---
 
 ### 5. Practical Applications
-ChatGPT can be used in:
+Copilot can be used in:
 - Education: Summarizing concepts, answering questions, or generating study material.
 - Programming: Debugging, code suggestions, or learning new languages.
 - Writing: Composing emails, articles, or creative content.
 
 #### Task:
-- Think of a practical scenario where ChatGPT could assist you.
+- Think of a practical scenario where Copilot could assist you.
 - Write a short description of how you would use it.
 
 ---
