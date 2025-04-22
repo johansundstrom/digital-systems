@@ -16,8 +16,8 @@ The purpose of this lab is to introduce students to generative AI and its capabi
 
 ## Useful links
 
-https://runtheprompts.com/resources/chatgpt-info/best-chatgpt-prompting-tips-techniques-tricks/
-https://www.siteground.com/academy/chatgpt-prompts/
+https://www.intelogy.co.uk/blog/easy-copilot-prompt-examples-you-must-try-to-get-started/ 
+https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
 
 ---
 
