@@ -30,8 +30,6 @@ https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f
 
 ---
 
-## 
-
 ## Lab Sections
 
 ### 1. What is Copilot?
