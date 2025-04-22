@@ -100,7 +100,7 @@ You are a student, submitting an application for a workposition. Your task is to
 
 #### Goal
 
-You need to find the perfect balance between a too long and a to short description of what the subject Information design embrace. The tone of the text should be relaxed, personal and avoid being percieved as copied. All  responses should be though of as they were written by you
+You need to find the perfect balance between a too long and a too short description of what the subject Information design embrace. The tone of the text should be relaxed, personal and avoid being percieved as copied. All  responses should be though of as they were written by you
 
 #### Information
 
@@ -113,7 +113,7 @@ Include personal properties like what areas is your challenges are and which you
 - Ensure the prompt is actionable, realistic, and easy to follow
 - Highlight unique aspects of your skills and your background
 - Ask for an output that is well formatted in with divided paragraphs
-- Don't forget, perfect balance between a too long and a to short description
+- Don't forget, perfect balance between a too long and a too short description
 
 Final task
 
