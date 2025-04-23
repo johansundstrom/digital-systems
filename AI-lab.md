@@ -1,7 +1,7 @@
 # Introduction to Generative AI (such as ChatGPT, Copilot)
 
 ## Objective
-The purpose of this lab is to introduce students to generative AI and its capabilities. By the end of this lab, you will understand how to interact with an AI-tool, explore its features, and identify its practical applications.
+The objective of this lab is to introduce you to generative AI and its capabilities. By the end of this lab, you will understand how to interact with an AI-tool, explore its features, and identify its practical applications.
 
 ## Prerequisites
 - Basic knowledge of text-based communication.
@@ -9,7 +9,7 @@ The purpose of this lab is to introduce students to generative AI and its capabi
 
 ## Definitions used here 
 - **ChatGPT** - developed by OpenAI
-- **Copilot** - developed by Microsoft and highly integrated into different Microsoft products like Word or Excel
+- **Copilot** - developed by Microsoft (highly integrated with Microsoft products like Word or Excel)
 - **Prompt** -  A prompt is a question, command, or statement used to interact with a large language model (LLM) to produce the intended output
 - **Large language model** - LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text
 - **Output** - The AI-generated response based on the input
