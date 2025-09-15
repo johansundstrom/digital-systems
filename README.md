@@ -28,8 +28,11 @@
 
 ## W1 - intro
 
-- intro and scope
+- intro, method and scope
 - demo of a complete system
+- Git, Github
+- Visual Studio Code
+- Programming using prompts
 - electrical sensors
 - Project
 
