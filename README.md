@@ -93,9 +93,11 @@
 | Vecka 46, 2025 | | | | | |
 |---|---|---|---|---|---|
 | Må	10 Nov | 10:15-12:00 | jsm01 | C3-004 | Campus | <a href="intro.md">Upprop introduktion</a> |
-| Ti	11 Nov | 10:15-15:00 | jsm01 | C3-004 | Campus | <a href="intro.md">Upprop introduktion</a> |
-| To	13 Nov | 10:15-15:00 | jsm01 | A3-009 | Campus | <a href="intro.md">Upprop introduktion</a> |
-|	Fre	14 Nov | 10:15-13:00 | jsm01 | C3-003 | Campus | <a href="lecture-1.md">Föreläsning 1</a> |
+| Ti	11 Nov | 10:15-12:00 | jsm01 | C3-004 | Campus | <a href="intro.md">Upprop introduktion</a> |
+| Ti	11 Nov | 13:15-15:00 | jsm01 | A3-009 | Campus | <a href="intro.md">Upprop introduktion</a> |
+| To	13 Nov | 10:15-12:00 | jsm01 | C3-004 | Campus | <a href="intro.md">Upprop introduktion</a> |
+| To	13 Nov | 13:15-15:00 | jsm01 | A3-009 | Campus | <a href="intro.md">Upprop introduktion</a> |
+|	Fr	14 Nov | 10:15-13:00 | jsm01 | C3-004 | Campus | <a href="lecture-1.md">Föreläsning 1</a> |
 
 | Vecka 47, 2020 | | | | | |
 |---|---|---|---|---|---|
